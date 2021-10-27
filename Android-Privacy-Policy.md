@@ -20,10 +20,43 @@ Link to privacy policy of third party service providers used by the app
 *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 *   [GameAnalytics](https://gameanalytics.com/privacy)
+*   [Adjust](https://www.adjust.com/terms/privacy-policy)
 
 **Log Data**
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+
+**Why is data collected?**
+
+This app and its third-party partners collect data: 
+* To provide you with the services you asked for
+* To run analytics and understand how users interact with our product and services to improve them continuously
+
+The third-party partners that the app will share the data with are: 
+* GameAnalytics
+* Facebook Analytics
+* Adjust
+* Voodoo
+
+**Data deletion requests**
+
+I do not store any of your personal data and only use Voodoo's SDK to handle data.
+
+If you also want to request the deletion of the data that may have been collected about you or your device by our third-party partners that are acting as independent data controllers, you will find below the contact for each partner and the link to the relevant section of their privacy policies:
+
++   GameAnalytics
+    * email: privacy@gameanalytics.com 
+    * privacy policy: https://gameanalytics.com/privacy/#6-changing-or-deleting-your-information
++   Facebook Analytics
+    * email: none, please refer to the privacy policy
+    * privacy policy: https://www.facebook.com/policy.php
++   Adjust
+    * email: privacy@adjust.com 
+    * privacy policy: https://www.adjust.com/terms/privacy-policy/ 
++   Voodoo
+    * Voodoo does not collect any of your personal data and only provides an SDK package to retrieve the data collected by the above-mentioned partners. You can still contact them to request the deletion of their access to the partners’ interfaces.
+    * email: dpo@voodoo.io
+
 
 **Cookies**
 
@@ -58,7 +91,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2021-10-22
+This policy is effective as of 2021-10-27
 
 **Contact Us**
 
