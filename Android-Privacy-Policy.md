@@ -26,6 +26,10 @@ Link to privacy policy of third party service providers used by the app
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
+
+***Request user data deletion***
+
+---
 **Why is data collected?**
 
 This app and its third-party partners collect data: 
@@ -56,7 +60,7 @@ If you also want to request the deletion of the data that may have been collecte
 +   Voodoo
     * Voodoo does not collect any of your personal data and only provides an SDK package to retrieve the data collected by the above-mentioned partners. You can still contact them to request the deletion of their access to the partners’ interfaces.
     * email: dpo@voodoo.io
-
+---
 
 **Cookies**
 
